@@ -1,0 +1,17 @@
+.top{
+    width: 400px;
+    margin: auto;
+}
+span{
+    font-size: 40px;
+}
+.middle{
+    width: 400px;
+    margin: auto;
+}
+h1{
+    color:blue;
+}
+.custom{
+    background-image: url("weather.jpg");
+}
